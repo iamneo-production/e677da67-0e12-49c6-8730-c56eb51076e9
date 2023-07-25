@@ -1,0 +1,26 @@
+.about-us-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px;
+    background-color: #f4f4f4;
+  }
+  
+  .about-us-content {
+    max-width: 600px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-us-content h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .about-us-content p {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  

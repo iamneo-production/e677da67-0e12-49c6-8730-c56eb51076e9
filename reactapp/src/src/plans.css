@@ -1,0 +1,22 @@
+body{
+    background-image: url(online\ insurance2.png);
+}
+
+.icici-insurance-plans {
+    
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .plan {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    margin-bottom: 5px;
+  }
+  
