@@ -1,0 +1,84 @@
+/* CarInsurancePlans.css */
+.car-insurance-plans {
+  margin-bottom: 40px;
+  justify-content: center;
+  align-items: center;
+  margin: 5vh 30vw;
+}
+
+.section-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.plans-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.plan-card {
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.plan-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.plan-description {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.plan-details {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.detail-group {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.detail-group-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.detail-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.detail-list li {
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #666;
+}
+
+.plan-cta {
+  text-align: center;
+}
+
+.cta-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
